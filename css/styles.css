@@ -1,0 +1,42 @@
+nav li {
+    display: inline;
+    margin-right: 15px;
+    text-align: center;
+}
+
+header {
+    background-color: #3c3c3c;
+    padding: 10px 0;
+}
+
+header h1 {
+    color: #ffffff;
+    text-align: left;
+    margin: 0;
+}
+
+body {
+    background-color: #3c3c3c;
+    margin: 0;
+}
+
+p {
+    color: #ffffff;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+a {
+    color: #ffffff;
+}
+
+footer {
+    background-color: #3c3c3c;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
